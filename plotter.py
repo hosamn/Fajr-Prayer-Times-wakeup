@@ -11,12 +11,17 @@ times = pd.read_csv('PrayerTimes2020.csv', index_col=[0], parse_dates=[0, 1, 2, 
 
 
 # times = pd.concat([times, times, times, times], axis=0).reset_index(drop=True)
-times = times[['Fajr', 'Sunrise']]    # For looking at fagr only!
+times = times[['Fajr', 'Sunrise']]    # Currently looking at fajr only!
+
+# print(times.head(1))
+# times.info()
 
 
 plt.plot(times)
 
 # print(min(times.loc[times['Fajr']]))
+
+plt.gca().fill_between(range(1, 367), times['Fajr'], times['Sunrise'])
 
 
 # Max & Min lines
@@ -44,6 +49,7 @@ plt.gca().set_xlim(min(times.index), max(times.index))
 
 plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%h'))
 plt.gca().yaxis.set_major_formatter(mdates.DateFormatter('%I:%M %p'))
+
 
 # sns.lineplot(x=times['Date'], y=times['Fajr'])
 plt.show()
