@@ -1,8 +1,6 @@
 # My Fajr Prayer Sleep Optimizer
 
-Goal is to find the best sleeping time to always getup for fajr easily
-
-By forming an almost constant sleep cycle
+App goal is to find the best waking/sleeping time to always getup for fajr easily, by forming an almost constant sleep cycle
 
 ![preview](1.jpg)
 
