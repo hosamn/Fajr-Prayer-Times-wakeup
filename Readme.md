@@ -1,19 +1,28 @@
-#Fajr Prayer Sleep Optimizer#
+# My Fajr Prayer Sleep Optimizer
+
+Goal is to find the best sleeping time to always getup for fajr easily
+
+By forming an almost constant sleep cycle
 
 ![preview](1.jpg)
 
-Data Source:
-![https://www.islamicfinder.org/prayer-times/print-yearly-prayers/?timeInterval=year&calendarType=Gregorian&year=2020]
+* Data Source:
 
-Calculation Method:
-Egyptian General Authority of Survey
-Fajr 19.5 degrees, Isha  17.5 degrees
+        https://www.islamicfinder.org/prayer-times/print-yearly-prayers/?timeInterval=year&calendarType=Gregorian&year=2020
 
-Juristic Method:
-Hanbali, Maliki, Shafi
+* Calculation Method:
 
-Latitude/Longitude:
-30.0771, 31.2859
+        Egyptian General Authority of Survey
+        Fajr 19.5 degrees, Isha  17.5 degrees
 
-Daylight Saving:
-Auto
+* Juristic Method:
+
+        Hanbali, Maliki, Shafi
+
+* Latitude/Longitude:
+
+        30.0771, 31.2859
+
+* Daylight Saving:
+
+        Auto
