@@ -3,7 +3,7 @@
 ![preview](1.jpg)
 
 Data Source:
-https://www.islamicfinder.org/prayer-times/print-yearly-prayers/?timeInterval=year&calendarType=Gregorian&year=2020
+![https://www.islamicfinder.org/prayer-times/print-yearly-prayers/?timeInterval=year&calendarType=Gregorian&year=2020]
 
 Calculation Method:
 Egyptian General Authority of Survey
