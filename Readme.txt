@@ -1,3 +1,7 @@
+#Fajr Prayer Sleep Optimizer#
+
+![preview](1.jpg)
+
 Data Source:
 https://www.islamicfinder.org/prayer-times/print-yearly-prayers/?timeInterval=year&calendarType=Gregorian&year=2020
 
