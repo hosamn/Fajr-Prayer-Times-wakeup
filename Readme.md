@@ -28,5 +28,5 @@ App goal is to find the best waking/sleeping time to always get up for fajr easi
 
 * ToDo:
 
-- Add actual Daylight Saving times.
-- Turn the fill into a gradient (dark blue to light yellow) descriping the time of day to make it easier to interpret the direction of the vl axis with time.
+  - Add actual Daylight Saving times.
+  - Turn the fill into a gradient (dark blue to light yellow) descriping the time of day to make it easier to interpret the direction of the vl axis with time.
