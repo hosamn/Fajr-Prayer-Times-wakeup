@@ -28,5 +28,5 @@ App goal is to find the best waking/sleeping time to always get up for fajr easi
 
 * ToDo:
 
-  - Add actual Daylight Saving times.
+  - Add actual Daylight Saving times. (@ 26/10/2023 12:00 midnight was rewinded back to 11:00pm, ending summer time for this year)
   - Turn the fill into a gradient (dark blue to light yellow) descriping the time of day to make it easier to interpret the direction of the vl axis with time.
