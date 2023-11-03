@@ -5,7 +5,6 @@ App goal is to find the best waking/sleeping time to always get up for fajr easi
 ![preview](1.jpg)
 
 * Data Source:
-
         https://www.islamicfinder.org/prayer-times/print-yearly-prayers/?timeInterval=year&calendarType=Gregorian&year=2020
 
 * Calculation Method:
